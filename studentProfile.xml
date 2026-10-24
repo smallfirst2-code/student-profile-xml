@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentProfile>
+<student>
+<id>2410511106013</id>
+<name>
+<firstName>ณัฐพล</firstName>
+<lastName>อัปการัตน์</lastName>
+<nickname>เฟิร์ส</nickname>
+</name>
+<faculty>คณะวิทยาศาสตร์</faculty>
+<major>Information and Communication Technology</major>
+<year>3</year>
+<gpa>2.64</gpa>
+<photo>https://i.pinimg.com/280x280_RS/fa/39/79/fa3979e7298af08c2940d03db16ab1e8.jpg</photo>
+</student>
+<academic>
+<semester>เทอมต้น</semester>
+<academicYear>2569</academicYear>
+</academic>
+<courses>
+<course>
+<code>SI342-1</code>
+<day>วันจันทร์</day>
+<time>08:30–12:20</time>
+<room>15201A</room>
+<building>อาคาร 15</building>
+</course>
+<course>
+<code>GE923-1</code>
+<day>วันอังคาร</day>
+<time>08:30–11:00</time>
+<room>7204</room>
+<building>อาคาร 07</building>
+</course>
+<course>
+<code>SI443-1</code>
+<day>วันอังคาร</day>
+<time>12:20–16:10</time>
+<room>1205B</room>
+<building>อาคาร 01</building>
+</course>
+<course>
+<code>SI361-1</code>
+<day>วันพุธ</day>
+<time>08:30–12:20</time>
+<room>1205A</room>
+<building>อาคาร 01</building>
+</course>
+<course>
+<code>SI237-1</code>
+<day>วันพุธ</day>
+<time>14:30–17:00</time>
+<room>1304</room>
+<building>อาคาร 01</building>
+</course>
+<course>
+<code>SI227-59</code>
+<day>วันเสาร์</day>
+<time>08:30–16:10</time>
+<room>15201B</room>
+<building>อาคาร 15</building>
+</course>
+</courses>
+</studentProfile>
